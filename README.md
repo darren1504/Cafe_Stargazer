@@ -1,4 +1,4 @@
-# Cafe_Stargazer
+# What this website is about
  My first time making a website for a school project using pure HTML and CSS
  
  It's a space and constellations themed cafe website
