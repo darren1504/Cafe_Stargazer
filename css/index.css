@@ -1,0 +1,85 @@
+#mainImg{
+        width: 100%;
+        margin: 0 auto;
+}
+#recommendation{
+        margin-top: 70px;
+        width: 1000px;
+        height: 400px;
+        text-align: center;
+        margin-left: 200px;
+}
+#season_rec{
+        color: #003775;
+        font-weight: bold;
+        font-size: 20px;
+}
+#seasonal{
+        color:#003775;
+}
+.recommendation-item{
+        margin-left: 20px;
+        float: left;
+        list-style: none;
+}
+#recommendation a{
+        display: block;
+        background: #003775;
+        color: #FFFFFF;
+        text-decoration: none;
+        text-align: center;
+        margin: 50px 0;
+        padding: 10px 10px;
+}
+#recommendation ul{
+        margin-left: 100px;
+}
+#news{
+        width: 1000px;
+        height: 500px;
+        text-align: center;
+        margin-left: 200px;
+}
+#news_title{
+        color: #003775;
+        font-weight: bold;
+        font-size: 20px;
+}
+#news_subtitle{
+        color: #003775;
+        margin-bottom: 50px;
+}
+.date{
+        width: 150px;
+        height: 50px;
+        background: #003775;
+        color: #FFFFFF;
+        margin-right: 810px;
+}
+.news_headline{
+        width: 900px;
+        height: 50px;
+        background: #003775;
+        color: #FFFFFF;
+        margin: 0 50px;
+        line-height: 50px;
+}
+#explanation{
+        width: 1000px;
+        height: 120px;
+        text-align: center;
+        margin-left: 200px;
+        background: #003775;
+        border-radius: 15px;
+        
+}
+#explanation h2,p{
+        color: #FFFFFF;
+}
+h3{
+        width: 1000px;
+        height: 400px;
+        margin-left: 200px;
+        margin-top: 50px;
+        text-align: center;
+}

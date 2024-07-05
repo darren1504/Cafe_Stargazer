@@ -1,0 +1,138 @@
+*{
+		margin: 0px;
+		padding: 0px;
+}
+#header{
+		width: 1000px;
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 20px;
+}
+#logo{
+		width: 100px;
+		height: 115px;
+		position: fixed;
+}
+body{
+		background-color: #B0CCF1;
+}
+h1{
+		width: 100px;
+		height: 135px;
+		float: left;
+}
+#topNav{
+		width: 570px;
+		height: 100px;
+		float: right;
+}
+#topNav li{
+		width: 150px;
+		height: 100px;
+		float: left;
+		margin-left: 40px;
+		list-style: none;
+}
+#topNav a{
+		display: block;
+		color: #FFFFFF;
+		width: 150px;
+		height: 100px;
+		background: #003775;
+		text-decoration: none;
+		text-align: center;
+		line-height: 100px;
+		border-radius: 15px;
+		position: fixed;
+}
+#login a{
+		background: url("../images/login_button.png") no-repeat left #003775;
+}
+#onlineShop a{
+		background: url("../images/shopping_cart.png") no-repeat left #003775;
+		line-height: 45px;
+}
+#navmenu{
+		clear: both;
+		background: #003775;
+		width: 100%;
+		height: 60px;
+}
+.navmenu-item{
+		width: 130px;
+		height: 60px;
+		margin-left: 95px;
+		margin-right: 45px;
+		float: left;
+		list-style: none;
+}
+#navmenu a{
+		display: block;
+		color: #FFFFFF;
+		width: 130px;
+		height: 60px;
+		text-decoration: none;
+		text-align: center;
+		line-height: 60px;
+}
+#navmenu a:hover{
+		color: #003775;
+		background-color: #D4ECEE;
+}
+#footer{
+		width: 1000px;
+		margin-left: 200px;
+		margin-top: 50px;
+}
+#footer #reservation{
+		width: 500px;
+		height: 200px;
+		margin-left: 250px;
+		color: #FFFFFF;
+		background: #003775;
+		line-height: 200px;
+		text-align: center;
+}
+#reservation a{
+		display: block;
+		text-decoration: none;
+		color: #FFFFFF;
+		background: url("../images/reservation.jpg") no-repeat;
+}
+#bottomNav{
+		width: 100%;
+		height: 100px;
+}
+#bottomNav li{
+		width: 400px;
+		height: 60px;
+		margin-left: 70px;
+		float: left;
+		list-style: none;
+}
+#bottomNav a{
+		display: block;
+		color: #FFFFFF;
+		width: 400px;
+		height: 60px;
+		background: #003775;
+		text-decoration: none;
+		text-align: center;
+		line-height: 60px;
+		margin-top: 50px;
+}
+#bottomNav a:hover{
+		color: #003775;
+		background:#D4ECEE
+}
+#footer h3{
+		width: 600px;
+		height: 160px;
+		text-align: center;
+		margin: 50px auto 0;
+}
+#copyright{
+		margin-top: 50px;
+		text-align: center;
+		color: #003775;
+}
